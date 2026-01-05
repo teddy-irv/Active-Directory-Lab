@@ -16,11 +16,6 @@ This project shows how I built a Windows Active Directory lab environment on a p
 - <b>Windows 11</b>
 - <b> Active Directory </b>
 
-<h2>Environments Used </h2>
-
-- <b>Windows 11</b>
-- <b>Windows Servers 2022</b>
-
 <h2>Goal:</h2>
 <b> 1. Create a Domain Controller hosting a Windows Server with 2 network adapters, one external to connect to the internet, and one internal for other virtual machines to connect to. <br />
 <br /> <b> 2. A client virtual machine hosting Windows 11 that will connect to the domain using one of our domain accounts we will create. <br />
