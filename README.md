@@ -4,7 +4,7 @@
 
 
 <h2>Description</h2>
-This project shows how to build a Windows Active Directory lab environment on a personal computer using VMware and then add & manage users using PowerShell scripts. 
+This project shows how I built a Windows Active Directory lab environment on a personal computer using VMware and then add & manage users using PowerShell scripts. 
 <br />
 
 
