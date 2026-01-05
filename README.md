@@ -114,4 +114,7 @@ After logging on and using command prompt, you can see we have successfully crea
 <br />
 <br />
 
+<h2>Reflection</h2>
+Through creating a virtualized Active Directory lab, what I learned teaches me more about virtualization, Windows Server deployment, and basic network configuration, including IP addressing and DNS dependency. Active Directory Domain Services showed me more how authentication and user management function in enterprise environments, while the process of joining a Windows client to the domain gave me a real-world example of user onboarding performed by IT support staff. Additionally, using PowerShell to automate user account creation showed me the importance of scripting and automation in improving efficiency and is something I will definitely be looking more into in the future. Overall, I look forward to adding more to these systems as well as creating new ones to study and simulate real world environments. 
+
 </p>
